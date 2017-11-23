@@ -1,0 +1,2 @@
+moveit
+-DCATKIN_DEVEL_PREFIX=/home/rohit/planning_project/devel -DCMAKE_INSTALL_PREFIX=/home/rohit/planning_project/install -G Unix Makefiles

@@ -1,0 +1,11 @@
+<launch>
+
+  <!--<include file="$(find pr2_moveit_config)/launch/demo.launch"/>-->
+
+  <!--<node name="moveit_interface" pkg="moveit" type="moveit_interface" respawn="false" output="screen" >
+  </node>-->
+  <node name="moveit_interface" pkg="moveit" type="bash2_test" respawn="false" output="screen" >
+  </node>
+</launch>
+
+

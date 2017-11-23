@@ -1,0 +1,3 @@
+Notes
+
+1. How will we do collision checking for a successor? If we try to just use plan() to see if it is successful, it might interfere with the main plan() call?
